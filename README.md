@@ -12,4 +12,4 @@ The **Student Grade Calculator** is a Python-based application that allows teach
 
 ## Author
 
-- **Reyes Cuesta Bootcamp QA**: [Your Name](<link_to_your_linkedin_profile>)
+- **Edyta Pukocz QA Student**: [Edyta Pukocz](<link_to_your_linkedin_profile>)
